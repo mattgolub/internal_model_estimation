@@ -13,8 +13,9 @@ encouraged. Please direct correspondence to mgolub@stanford.edu.
 MATLAB VERSIONS:
 
 This codepack was developed and tested using Matlab R2015a for Mac. We have 
-also had success with Matlab R2016a and R2017b. This codepack may not be 
-compatible with earlier Matlab versions.
+also had success with Matlab R2011, R2016a, R2017b, and R2018a for Mac, and
+Matlab R2018a for Linux . This codepack may not be compatible with earlier
+Matlab versions.
 
 DESCRIPTION:
 
