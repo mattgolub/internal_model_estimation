@@ -5,15 +5,15 @@ found at: https://elifesciences.org/articles/10015/
 
 Codepack version: 2.0
 Written by: Matt Golub
-Testing by: TBD
+Additional testing by: Jay Hennig
 
 Feedback, comments, suggestions, bug reports, etc, are welcomed and 
 encouraged. Please direct correspondence to mgolub@stanford.edu.
 
 MATLAB VERSIONS:
 
-This codepack was developed and tested using Matlab R2015a. We have also
-had success with Matlab R2016a and R2017b. This codepack may not be 
+This codepack was developed and tested using Matlab R2015a for Mac. We have 
+also had success with Matlab R2016a and R2017b. This codepack may not be 
 compatible with earlier Matlab versions.
 
 DESCRIPTION:
